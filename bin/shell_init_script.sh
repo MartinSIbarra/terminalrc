@@ -1,6 +1,6 @@
 cd
 git init
-git remote add origin https://github.com/PabloScolpino/terminalrc.git
+git remote add origin https://github.com/MartinSIbarra/terminalrc.git
 git fetch
 git checkout -t origin/master
 
