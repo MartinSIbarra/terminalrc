@@ -15,6 +15,7 @@
 !*.config/alias.sh
 !*.config/env.sh
 !*.config/git.sh
+!*.config/git_tree_aliases
 !*.config/ld_library_path.sh
 !*.config/path.sh
 !*.config/prompt.sh
