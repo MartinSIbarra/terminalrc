@@ -1,4 +1,3 @@
 alias l='ls -l -G --color'
-alias a='clear;ls -l -G --color'
-alias ap='ansible-playbook'
+alias a='ls -la -G --color'
 git config --global alias.up 'pull --rebase --autostash'
